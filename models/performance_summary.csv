@@ -1,0 +1,7 @@
+Model,Test Accuracy,CV Mean,Training Time (s)
+Multinomial Naive Bayes,83.82%,83.46%,3.01
+Logistic Regression,86.89%,85.89%,4.11
+Support Vector Classifier,87.22%,86.04%,3.87
+Random Forest,83.33%,82.26%,10.99
+Decision Tree,72.66%,71.28%,25.71
+K-Nearest Neighbors,58.67%,50.68%,3.18
