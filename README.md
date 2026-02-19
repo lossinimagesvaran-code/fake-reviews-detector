@@ -22,7 +22,7 @@ Machine Learning Models Used
 
 The project implements and compares 6 different classification algorithms:
 1. Logistic Regression - 86% accuracy
-2. **K-Nearest Neighbors (KNN) - 58% accuracy
+2. K-Nearest Neighbors (KNN) - 58% accuracy
 3. Decision Tree Classifier - 73% accuracy
 4. Random Forest Classifier - 84% accuracy
 5. Support Vector Classifier - 88% accuracy (Best Performer)
@@ -34,6 +34,5 @@ Features
 - Feature Extraction: CountVectorizer (Bag of Words) and TF-IDF Transformer
 - Multiple Algorithms: Compare performance across 6 classifiers
 - Model Persistence: Save and load trained models
-- Streamlit Web App: User-friendly interface for real-time predictions
 - Batch Prediction: Analyze multiple reviews at once
 
